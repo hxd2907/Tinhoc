@@ -1,4 +1,4 @@
-import { GoogleGenAI, Type } from "@google/genai";
+import { GoogleGenAI, Type } from '@google/generative-ai';
 import { Language, SolutionResult } from '../types';
 
 const cleanBase64 = (dataUrl: string): string => {
