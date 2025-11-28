@@ -1,0 +1,5 @@
+{
+  "name": "Giai_baitap_Tinhoc",
+  "description": "Upload or paste images/PDFs of coding problems to get instant solutions in C++ or Python using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
